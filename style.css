@@ -1,0 +1,53 @@
+
+.body{
+    background: "" ;
+    font-family: 'Times New Roman', Times, serif;
+}
+.KALKULATOR{
+    width: 1000px ;
+    margin: 1500px auto ;
+    border-radius: 10px ;
+    background-color:rgba(0, 0, 0, 0.8) ;
+    padding: 10px 20px 50px 20px  ;
+    box-shadow: 0px 10px 20px 0px rgba(40, 30, 49, 0.5);
+    
+}
+.bil{
+    width: 30px ;
+    margin: 5px ;
+    border: none;
+    font-size: 16pt ;
+    border-radius: 5px;
+    padding: 10px ;
+}
+.opt{
+    font-family: 'Times New Roman', Times, serif ;
+    font-size: 16pt ;
+    border: none ;
+    width: 190px ;
+    margin: 5px ;
+    border-radius: 5px ;
+    padding: 10px ;
+}
+.tombol{
+    background-color: rgb(236, 0, 0) ;
+    border-top: none ;
+    border-right: none;
+    border-left: none ;
+    border-radius: 5px;
+    padding: 10px 20px ;
+    color: rgba(191, 245, 245, 0.7) ;
+    font-size: 15pt ;
+    border-bottom: 4px rgb(0, 0, 0) ;
+}
+.brand{
+    color: orange ;
+    font-size: 11pt ;
+    text-decoration: none ;
+    margin: 12px;
+}
+.judul{
+    text-align: center ;
+    color: aliceblue ;
+    font-weight: normal ;
+}
